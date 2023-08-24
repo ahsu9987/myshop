@@ -1,0 +1,94 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+/* #Home-page{
+    background-image: url(images/background-img.jpeg);
+} */
+.navbar-toggler{
+    font-size: 12px;
+}
+.home-heading{
+    margin-left: 70px;
+}
+.homepg-header{
+    margin-top: 100px;
+}
+.discount-img{
+    position: relative;
+    bottom: 500px;
+    left: 400px;
+}
+.info{
+    font-size: 60px;
+}
+.cart-img{
+    margin-left: 190px;
+    margin-bottom: 10px;
+    padding: 15px 10px 0px 10px;
+}
+.right-arrow{
+    height: 30px;
+    width: 30px;
+}
+.arrow{
+    margin-left: 200px;
+}
+.msg-img{
+    border-radius: 100px;
+    width: 80px;
+    height: 80px;
+}
+.contac-para{
+    font-size: 12px;
+}
+.contac-para-last{
+    font-size: 12px;
+}
+.contact-img{
+    height: 20px;
+}
+@media only screen and (max-width: 767px){
+    .home-heading{
+        margin-left: 0px;
+    }
+    .homepg-header{
+        margin-top: 40px;
+    } 
+    .info{
+        font-size: 40px;
+    }
+    .discount-img{
+        position: relative;
+        bottom: 320px;
+        left: 220px;
+    }
+    .card-margintop{
+        margin-top: 40px;
+    }
+    .msg-head{
+        text-align: center;
+        margin-right: 40px;
+    }
+    .row-padding{
+        padding: 20px;
+    }
+    .cart-img{
+        margin-left: 190px;
+    }
+   .msg-head{
+    font-size: 20px;
+    margin-left: 0px;
+   }
+   .msg-box{
+    margin-top: 40px;
+   }
+   .footer-size{
+    font-size: 8px;
+}
+.contact-img{
+    height: 10px;
+}
+
+}
