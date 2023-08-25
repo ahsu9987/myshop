@@ -49,6 +49,16 @@ body{
 .contact-img{
     height: 20px;
 }
+.all-pics{
+    height: 200px;
+}
+.all-images{
+    margin-left: 70px;
+    padding: 10px;
+}
+.prev{
+    background-color: black;
+}
 @media only screen and (max-width: 767px){
     .home-heading{
         margin-left: 0px;
@@ -86,6 +96,14 @@ body{
 }
 .contact-img{
     height: 10px;
+}
+.all-images{
+    margin-left: 5px;
+    padding: 0px;
+}
+.all-pics{
+    height: 60px;
+    border: 2px solid red;
 }
 
 }
