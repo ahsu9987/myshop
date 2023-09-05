@@ -62,6 +62,16 @@ body{
 .prev{
     background-color: black;
 }
+.img5{
+    height: 290px;
+}
+.img6{
+    height: 300px;
+}
+.img9{
+    height: 290px;
+}
+
 @media only screen and (max-width: 767px){
     .hide-nav{
         visibility: hidden;
@@ -111,5 +121,16 @@ body{
     height: 60px;
     border: 1px solid white;
 }
-
+.font-size{
+    font-size: 12px;
+}
+.img5{
+    height: 90px;
+}
+.img6{
+    height: 98px;
+}
+.img9{
+    height: 143px;
+}
 }
