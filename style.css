@@ -1,4 +1,4 @@
-body{
+body{   
     margin: 0px;
     padding: 0px;
     overflow-x: hidden;
@@ -17,6 +17,7 @@ body{
 }
 .homepg-header{
     margin-top: 100px;
+    color: white;
 }
 .discount-img{
     position: relative;
@@ -71,6 +72,10 @@ body{
 .img9{
     height: 290px;
 }
+a{
+    text-decoration: none;
+    color: burlywood;
+}
 
 @media only screen and (max-width: 767px){
     .hide-nav{
@@ -109,7 +114,7 @@ body{
    }
    .footer-size{
     font-size: 8px;
-}
+    }
 .contact-img{
     height: 10px;
 }
